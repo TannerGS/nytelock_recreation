@@ -1,32 +1,33 @@
-.App {
+.Card {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+.cardBody {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+.contactButton {
+  display: inline-block;
+  margin-left: 90%;
+}
+
+.square-card {
+  width: 170px;
+  height: 170px;
+}
+
+.square-card-logo {
+  color: #ffd500;
   text-align: center;
+  padding-bottom: 15px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.square-card-text {
   color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  text-align: center;
 }
