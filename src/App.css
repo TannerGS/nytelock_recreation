@@ -31,3 +31,24 @@
   color: white;
   text-align: center;
 }
+
+.main-first {
+  padding-top: 30px;
+  margin-left: 100px;
+  margin-right: 35px;
+}
+
+.main-second {
+  padding-top: 100px;
+  margin-right: 100px;
+  margin-left: 35px;
+}
+
+.secondary {
+  padding-top: 15px;
+}
+
+.square-button {
+  padding: 0 !important; 
+}
+
