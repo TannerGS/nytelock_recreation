@@ -19,10 +19,10 @@ const App = () => {
       <Card body inverse style={{ backgroundColor: '#5a5a5a', borderColor: '#5a5a5a', borderRadius: 10 }}>
         <CardBody className="cardBody">
           <CardText>
-            <p>
+            <p className="title1">
               HOW DO I KNOW WHICH LOGO STYLE IS RIGHT FOR ME?
             </p>
-            <span>
+            <span className="title2">
               Different Types of Logo Styles
             </span>
             <Button className="contactButton">Contact Us <i class="fas fa-arrow-circle-right"></i></Button>

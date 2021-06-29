@@ -14,6 +14,9 @@
 .contactButton {
   display: inline-block;
   margin-left: 90%;
+  background-color: #ffd500 !important;
+  color: #000000 !important;
+  border-radius: 25px !important;
 }
 
 .square-card {
@@ -52,3 +55,15 @@
   padding: 0 !important; 
 }
 
+.square-button:hover {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+.title1 {
+  color:#ffd500;
+}
+
+.title2 {
+  font-size: 50px;
+}
